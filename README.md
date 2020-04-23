@@ -1,6 +1,9 @@
 # hunterpawan
 A simple python script to scrap reports and writeups from google using  dorks 
 
+Exploit Writer : https://instagram.com/chaudharypawansohlot
+                 https://www.linkedin.com/in/pawansohlot/
+
 ## Usage 
 **scraping reports from hackerone** : python3 hunterpawan.py -v <vuln_type> -hone <br>
 **scraping writeups from medium** : python3 hunterpawan.py -v <vuln_type> -m  
