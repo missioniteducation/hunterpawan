@@ -13,6 +13,7 @@ A simple python script to scrap reports and writeups from google using  dorks
  ## Install requirements
  pip3 install -r requirement.txt
 
+Got Lots of stuff http://www.hackin5min.com/
 # Thanks For Watching Mission I.T Education
 
 Facebook-        https://facebook.com/missioniteducation
